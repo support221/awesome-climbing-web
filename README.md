@@ -52,6 +52,8 @@ Curating a list of useful climbing web/app resources
 
 [27 Crags](https://27crags.com) - An app and website for climbing topos, beta videos and ticklists
 
+[Sendr](https://sendr.rocks/) - A climbing app for crag discovery, navigation, climb logging, board climbing, training, and progression tracking.
+
 ## Weather 🌡️
 
 [Climbing Weather](https://www.climbingweather.com/) - A weather website for popular climbing areas
